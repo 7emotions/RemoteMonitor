@@ -1,0 +1,7 @@
+E:\MyWindowsApp\GodEye\GodEyeClientDll\bin\Release\GodEyeClientDll.dll
+E:\MyWindowsApp\GodEye\GodEyeClientDll\bin\Release\GodEyeClientDll.pdb
+E:\MyWindowsApp\GodEye\GodEyeClientDll\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\MyWindowsApp\GodEye\GodEyeClientDll\obj\Release\GodEyeClientDll.csproj.ResolveComReference.cache
+E:\MyWindowsApp\GodEye\GodEyeClientDll\obj\Release\GodEyeClientDll.csproj.CoreCompileInputs.cache
+E:\MyWindowsApp\GodEye\GodEyeClientDll\obj\Release\GodEyeClientDll.dll
+E:\MyWindowsApp\GodEye\GodEyeClientDll\obj\Release\GodEyeClientDll.pdb

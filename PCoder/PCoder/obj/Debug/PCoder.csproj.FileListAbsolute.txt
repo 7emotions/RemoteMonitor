@@ -1,0 +1,13 @@
+E:\MyWindowsApp\PCoder\PCoder\bin\Debug\PCoder.exe.config
+E:\MyWindowsApp\PCoder\PCoder\bin\Debug\PCoder.exe
+E:\MyWindowsApp\PCoder\PCoder\bin\Debug\PCoder.pdb
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.csprojAssemblyReference.cache
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.Form1.resources
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.Properties.Resources.resources
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.csproj.GenerateResource.cache
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.csproj.CoreCompileInputs.cache
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.exe
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.pdb
+E:\MyWindowsApp\PCoder\PCoder\bin\Debug\GodEyeClientDll.dll
+E:\MyWindowsApp\PCoder\PCoder\bin\Debug\GodEyeClientDll.pdb
+E:\MyWindowsApp\PCoder\PCoder\obj\Debug\PCoder.csproj.CopyComplete

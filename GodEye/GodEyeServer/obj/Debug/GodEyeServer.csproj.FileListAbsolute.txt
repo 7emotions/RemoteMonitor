@@ -1,0 +1,11 @@
+E:\MyWindowsApp\GodEye\GodEyeServer\bin\Debug\GodEyeServer.exe.config
+E:\MyWindowsApp\GodEye\GodEyeServer\bin\Debug\GodEyeServer.exe
+E:\MyWindowsApp\GodEye\GodEyeServer\bin\Debug\GodEyeServer.pdb
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.ClientListForm.resources
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.Form1.resources
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.GodEyeForm.resources
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.Properties.Resources.resources
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.csproj.GenerateResource.cache
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.csproj.CoreCompileInputs.cache
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.exe
+E:\MyWindowsApp\GodEye\GodEyeServer\obj\Debug\GodEyeServer.pdb

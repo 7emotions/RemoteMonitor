@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodEyeServer", "GodEyeServer\GodEyeServer.csproj", "{A0FFE8DD-7F62-4598-9960-386C0F652ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCoder", "..\PCoder\PCoder\PCoder.csproj", "{A9D6A77E-9730-4E87-B611-DCCBD021F556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodEyeClientDll", "GodEyeClientDll\GodEyeClientDll.csproj", "{FC87751E-DF1F-4ACE-9190-1910C479CB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FFE8DD-7F62-4598-9960-386C0F652ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FFE8DD-7F62-4598-9960-386C0F652ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FFE8DD-7F62-4598-9960-386C0F652ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FFE8DD-7F62-4598-9960-386C0F652ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D6A77E-9730-4E87-B611-DCCBD021F556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D6A77E-9730-4E87-B611-DCCBD021F556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D6A77E-9730-4E87-B611-DCCBD021F556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D6A77E-9730-4E87-B611-DCCBD021F556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC87751E-DF1F-4ACE-9190-1910C479CB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC87751E-DF1F-4ACE-9190-1910C479CB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC87751E-DF1F-4ACE-9190-1910C479CB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC87751E-DF1F-4ACE-9190-1910C479CB66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4979118-4C40-440B-B3C7-CE567D6B17FD}
+	EndGlobalSection
+EndGlobal
